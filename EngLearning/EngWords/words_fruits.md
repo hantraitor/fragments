@@ -11,9 +11,9 @@ kiwifruit = kiwi = Chinese gooseberry | 獼猴桃 = 奇異果
 kumquat = cumquat | 金橘
 lemon | 檸檬
 lime | 青檸 = 來檬
-lychee = litchi = lichee | 荔枝
 longan | 龍眼 = 桂圓
 loquat | 枇杷
+lychee = litchi = lichee | 荔枝
 mango | 芒果
 muskmelon = {cantaloupe,casaba,honeydew...}
 nectarine | 油桃
