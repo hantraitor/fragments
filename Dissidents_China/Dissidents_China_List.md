@@ -3,17 +3,17 @@ Name | Other Names | zh.wiki | en.wiki | Last Update
 蔡霞 | | [zh](https://zh.wikipedia.org/wiki/蔡霞) | [en](https://en.wikipedia.org/wiki/Cai_Xia) | 20200914
 陈光诚 | | [zh](https://zh.wikipedia.org/wiki/陈光诚) | [en](https://en.wikipedia.org/wiki/Chen_Guangcheng) | 20200914
 丁家喜 | | [zh](https://zh.wikipedia.org/wiki/丁家喜) | | 20200914
-方励之 |
-封从德 |
+方励之 | | [zh](https://zh.wikipedia.org/wiki/方励之) | [en](https://en.wikipedia.org/wiki/Fang_Lizhi) | 20200927
+封从德 | | [zh](https://zh.wikipedia.org/wiki/封从德) | [en](https://en.wikipedia.org/wiki/Feng_Congde) | 20200927
 高智晟 | | [zh](https://zh.wikipedia.org/wiki/高智晟) | [en](https://en.wikipedia.org/wiki/Gao_Zhisheng) | 20200914
 李和平 | | [zh](https://zh.wikipedia.org/wiki/李和平_(律师)) | [en](https://en.wikipedia.org/wiki/Li_Heping) | 20200914
-刘晓波 |
+刘晓波 | | [zh](https://zh.wikipedia.org/wiki/刘晓波) | [en](https://en.wikipedia.org/wiki/Liu_Xiaobo) | 20200927
 浦志强 | | [zh](https://zh.wikipedia.org/wiki/浦志强) | [en](https://en.wikipedia.org/wiki/Pu_Zhiqiang) | 20200914
-任志强 |
+任志强 | | [zh](https://zh.wikipedia.org/wiki/任志强) | [en](https://en.wikipedia.org/wiki/Ren_Zhiqiang) | 20200927
 滕彪 | | [zh](https://zh.wikipedia.org/wiki/滕彪) | [en](https://en.wikipedia.org/wiki/Teng_Biao) | 20200914
 王全璋 | | [zh](https://zh.wikipedia.org/wiki/王全璋) | [en](https://en.wikipedia.org/wiki/Wang_Quanzhang) | 20200914
 王宇 | | [zh](https://zh.wikipedia.org/wiki/王宇_(律師)) | [en](https://en.wikipedia.org/wiki/Wang_Yu_(lawyer)) | 20200914
-魏京生 |
-许章润 |
+魏京生 | | [zh](https://zh.wikipedia.org/wiki/魏京生) | [en](https://en.wikipedia.org/wiki/Wei_Jingsheng) | 20200927
+许章润 | | [zh](https://zh.wikipedia.org/wiki/许章润) | [en](https://en.wikipedia.org/wiki/Xu_Zhangrun) | 20200927
 许志永 | | [zh](https://zh.wikipedia.org/wiki/许志永) | [en](https://en.wikipedia.org/wiki/Xu_Zhiyong) | 20200914
 周世锋 | | [zh](https://zh.wikipedia.org/wiki/周世鋒) | | 20200914
