@@ -40,7 +40,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 Miles Yu | 余茂春 | m | [zh](https://zh.wikipedia.org/wiki/余茂春) | | 20200927
 于琳琦 | | m | [zh](https://zh.wikipedia.org/wiki/方方日記#于琳琦事件) | | 20201028
 张宝成 | | m | [zh](https://zh.wikipedia.org/wiki/张宝成) | | 20201028
-张展 | | f | | | 20201028 | 公民记者、异议人士，因武汉肺炎报道被控“寻衅滋事罪”
+张展 | | f | | | 20201028 | 公民记者、异议人士，现因武汉肺炎报道被控“寻衅滋事罪”
 赵常青 | | m | [zh](https://zh.wikipedia.org/wiki/赵常青) | [en](https://en.wikipedia.org/wiki/Zhao_Changqing) | 20200927
 鍾翰林 | Tony Chung | m | [zh](https://zh.wikipedia.org/wiki/鍾翰林) | [en](https://en.wikipedia.org/wiki/Tony_Chung) | 20201028
 周庭 | Agnes Chow | f | [zh](https://zh.wikipedia.org/wiki/周庭) | [en](https://en.wikipedia.org/wiki/Agnes_Chow) | 20200928
