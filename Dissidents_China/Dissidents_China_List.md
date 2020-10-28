@@ -15,7 +15,6 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 黎智英 | Jimmy Lai | m | [zh](https://zh.wikipedia.org/wiki/黎智英) | [en](https://en.wikipedia.org/wiki/Jimmy_Lai) | 20200928
 李大伟 | | m | | | 20201028 | 民运人士，2001年被以“颠覆国家政权罪”判刑11年
 李和平 | | m | [zh](https://zh.wikipedia.org/wiki/李和平_(律师)) | [en](https://en.wikipedia.org/wiki/Li_Heping) | 20200914
-利君雅 | Nabela Qoser | f | [zh](https://zh.wikipedia.org/wiki/利君雅) | [en](https://en.wikipedia.org/wiki/Nabela_Qoser) | 20201028
 林榮基 | | m | [zh](https://zh.wikipedia.org/wiki/林榮基) | [en](https://en.wikipedia.org/wiki/Lam_Wing-kee) | 20200928
 林夕 | 本名梁偉文 Albert Leung | m | [zh](https://zh.wikipedia.org/wiki/林夕) | [en](https://en.wikipedia.org/wiki/Albert_Leung) | 20200928
 刘晓波 | | m | [zh](https://zh.wikipedia.org/wiki/刘晓波) | [en](https://en.wikipedia.org/wiki/Liu_Xiaobo) | 20200927
