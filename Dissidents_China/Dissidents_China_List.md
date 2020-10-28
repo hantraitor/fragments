@@ -3,6 +3,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 蔡霞 | | f | [zh](https://zh.wikipedia.org/wiki/蔡霞) | [en](https://en.wikipedia.org/wiki/Cai_Xia) | 20200914
 陈光诚 | | m | [zh](https://zh.wikipedia.org/wiki/陈光诚) | [en](https://en.wikipedia.org/wiki/Chen_Guangcheng) | 20200914
 丁家喜 | | m | [zh](https://zh.wikipedia.org/wiki/丁家喜) | | 20200914
+杜汶澤 | Chapman To | m | [zh](https://zh.wikipedia.org/wiki/杜汶澤) | [en](https://en.wikipedia.org/wiki/Chapman_To) | 20201028
 方励之 | | m | [zh](https://zh.wikipedia.org/wiki/方励之) | [en](https://en.wikipedia.org/wiki/Fang_Lizhi) | 20200927
 封从德 | | m | [zh](https://zh.wikipedia.org/wiki/封从德) | [en](https://en.wikipedia.org/wiki/Feng_Congde) | 20200927
 高瑜 | | f | [zh](https://zh.wikipedia.org/wiki/高瑜) | [en](https://en.wikipedia.org/wiki/Gao_Yu_(journalist)) | 20200927
