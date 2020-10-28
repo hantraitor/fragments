@@ -35,7 +35,7 @@ Name | Other Names | zh.wiki | en.wiki | Last Update | Remark
 杨茂东 | 网名郭飞雄 | [zh](https://zh.wikipedia.org/wiki/郭飞雄) | [en](https://en.wikipedia.org/wiki/Guo_Feixiong) | 20200927
 Miles Yu | 余茂春 | [zh](https://zh.wikipedia.org/wiki/余茂春) | | 20200927
 赵常青 | | [zh](https://zh.wikipedia.org/wiki/赵常青) | [en](https://en.wikipedia.org/wiki/Zhao_Changqing) | 20200927
-鍾翰林 | | [zh](https://zh.wikipedia.org/wiki/鍾翰林) | [en](https://en.wikipedia.org/wiki/Tony_Chung) | 20201028
+鍾翰林 | Tony Chung | [zh](https://zh.wikipedia.org/wiki/鍾翰林) | [en](https://en.wikipedia.org/wiki/Tony_Chung) | 20201028
 周舵 | | [zh](https://zh.wikipedia.org/wiki/周舵) | | 20200927
 周庭 | Agnes Chow | [zh](https://zh.wikipedia.org/wiki/周庭) | [en](https://en.wikipedia.org/wiki/Agnes_Chow) | 20200928
 周世锋 | | [zh](https://zh.wikipedia.org/wiki/周世鋒) | | 20200914
