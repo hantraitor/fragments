@@ -9,10 +9,12 @@ Name | Other Names | zh.wiki | en.wiki | Last Update | Remark
 高智晟 | | [zh](https://zh.wikipedia.org/wiki/高智晟) | [en](https://en.wikipedia.org/wiki/Gao_Zhisheng) | 20200914
 何韻詩 | Denise Ho | [zh](https://zh.wikipedia.org/wiki/何韻詩) | [en](https://en.wikipedia.org/wiki/Denise_Ho) | 20200928
 贺卫方 | | [zh](https://zh.wikipedia.org/wiki/贺卫方) | [en](https://en.wikipedia.org/wiki/He_Weifang) | 20200927
+黄琦 | | [zh](https://zh.wikipedia.org/wiki/黄琦) | [en](https://en.wikipedia.org/wiki/Huang_Qi) | 20201028
 黃之鋒 | Joshua Wong | [zh](https://zh.wikipedia.org/wiki/黃之鋒) | [en](https://en.wikipedia.org/wiki/Joshua_Wong) | 20200928
 黎智英 | Jimmy Lai | [zh](https://zh.wikipedia.org/wiki/黎智英) | [en](https://en.wikipedia.org/wiki/Jimmy_Lai) | 20200928
 李大伟 | | | | 20201028 | 甘肃天水民运人士，2001年被以“颠覆国家政权罪”判刑11年
 李和平 | | [zh](https://zh.wikipedia.org/wiki/李和平_(律师)) | [en](https://en.wikipedia.org/wiki/Li_Heping) | 20200914
+利君雅 | Nabela Qoser | [zh](https://zh.wikipedia.org/wiki/利君雅) | [en](https://en.wikipedia.org/wiki/Nabela_Qoser) | 20201028
 林榮基 | | [zh](https://zh.wikipedia.org/wiki/林榮基) | [en](https://en.wikipedia.org/wiki/Lam_Wing-kee) | 20200928
 林夕 | 本名梁偉文 Albert Leung | [zh](https://zh.wikipedia.org/wiki/林夕) | [en](https://en.wikipedia.org/wiki/Albert_Leung) | 20200928
 刘晓波 | | [zh](https://zh.wikipedia.org/wiki/刘晓波) | [en](https://en.wikipedia.org/wiki/Liu_Xiaobo) | 20200927
@@ -34,6 +36,8 @@ Name | Other Names | zh.wiki | en.wiki | Last Update | Remark
 许志永 | | [zh](https://zh.wikipedia.org/wiki/许志永) | [en](https://en.wikipedia.org/wiki/Xu_Zhiyong) | 20200914
 杨茂东 | 网名郭飞雄 | [zh](https://zh.wikipedia.org/wiki/郭飞雄) | [en](https://en.wikipedia.org/wiki/Guo_Feixiong) | 20200927
 Miles Yu | 余茂春 | [zh](https://zh.wikipedia.org/wiki/余茂春) | | 20200927
+张宝成 | | [zh](https://zh.wikipedia.org/wiki/张宝成) | | 20201028
+张展 | | | | 20201028 | 陕西籍，公民记者、异议人士，因武汉肺炎报道被控“寻衅滋事罪”
 赵常青 | | [zh](https://zh.wikipedia.org/wiki/赵常青) | [en](https://en.wikipedia.org/wiki/Zhao_Changqing) | 20200927
 鍾翰林 | Tony Chung | [zh](https://zh.wikipedia.org/wiki/鍾翰林) | [en](https://en.wikipedia.org/wiki/Tony_Chung) | 20201028
 周舵 | | [zh](https://zh.wikipedia.org/wiki/周舵) | | 20200927
