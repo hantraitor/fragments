@@ -29,7 +29,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 王若望 | 本名王寿华 | m | [zh](https://zh.wikipedia.org/wiki/王若望) | [en](https://en.wikipedia.org/wiki/Wang_Ruowang) | 20200927
 王小妮 | | f | [zh](https://zh.wikipedia.org/wiki/王小妮) | [en](https://en.wikipedia.org/wiki/Wang_Xiaoni) | 20200927
 王怡 | | m | [zh](https://zh.wikipedia.org/wiki/王怡) | [en](https://en.wikipedia.org/wiki/Wang_Yi_(pastor)) | 20200927
-王瑛 | 王英 | f | | | 20201028 | 退休企业家（高管）
+王瑛 | 王英 | f | | | 20201028 | 企业家（高管），已退休
 王宇 | | f | [zh](https://zh.wikipedia.org/wiki/王宇_(律師)) | [en](https://en.wikipedia.org/wiki/Wang_Yu_(lawyer)) | 20200914
 魏京生 | | m | [zh](https://zh.wikipedia.org/wiki/魏京生) | [en](https://en.wikipedia.org/wiki/Wei_Jingsheng) | 20200927
 许章润 | | m | [zh](https://zh.wikipedia.org/wiki/许章润) | [en](https://en.wikipedia.org/wiki/Xu_Zhangrun) | 20200927
