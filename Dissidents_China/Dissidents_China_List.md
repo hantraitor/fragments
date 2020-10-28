@@ -34,8 +34,11 @@ Name | Other Names | zh.wiki | en.wiki | Last Update | Remark
 魏京生 | | [zh](https://zh.wikipedia.org/wiki/魏京生) | [en](https://en.wikipedia.org/wiki/Wei_Jingsheng) | 20200927
 许章润 | | [zh](https://zh.wikipedia.org/wiki/许章润) | [en](https://en.wikipedia.org/wiki/Xu_Zhangrun) | 20200927
 许志永 | | [zh](https://zh.wikipedia.org/wiki/许志永) | [en](https://en.wikipedia.org/wiki/Xu_Zhiyong) | 20200914
+杨斌 | | | | 20201028 | 曾任检察官，现为维权律师，但正被注销律师证
+杨建利 | | [zh](https://zh.wikipedia.org/wiki/楊建利) | [en](https://en.wikipedia.org/wiki/Yang_Jianli) | 20201028
 杨茂东 | 网名郭飞雄 | [zh](https://zh.wikipedia.org/wiki/郭飞雄) | [en](https://en.wikipedia.org/wiki/Guo_Feixiong) | 20200927
 Miles Yu | 余茂春 | [zh](https://zh.wikipedia.org/wiki/余茂春) | | 20200927
+于琳琦 | | [zh](https://zh.wikipedia.org/wiki/方方日記#于琳琦事件) | | 20201028
 张宝成 | | [zh](https://zh.wikipedia.org/wiki/张宝成) | | 20201028
 张展 | | | | 20201028 | 陕西籍，公民记者、异议人士，因武汉肺炎报道被控“寻衅滋事罪”
 赵常青 | | [zh](https://zh.wikipedia.org/wiki/赵常青) | [en](https://en.wikipedia.org/wiki/Zhao_Changqing) | 20200927
