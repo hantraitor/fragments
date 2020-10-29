@@ -2,6 +2,8 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 --- | --- | --- | --- | --- | --- | ---
 蔡霞 | | f | [zh](https://zh.wikipedia.org/wiki/蔡霞) | [en](https://en.wikipedia.org/wiki/Cai_Xia) | 20200914
 陈光诚 | | m | [zh](https://zh.wikipedia.org/wiki/陈光诚) | [en](https://en.wikipedia.org/wiki/Chen_Guangcheng) | 20200914
+陈破空 | | m | [zh](https://zh.wikipedia.org/wiki/陈破空) | [en](https://en.wikipedia.org/wiki/Chen_Pokong) | 20201029
+陳日君 | Joseph Zen | m | [zh](https://zh.wikipedia.org/wiki/陳日君) | [en](https://en.wikipedia.org/wiki/Joseph_Zen) | 20201029
 丁家喜 | | m | [zh](https://zh.wikipedia.org/wiki/丁家喜) | | 20200914
 杜汶澤 | Chapman To | m | [zh](https://zh.wikipedia.org/wiki/杜汶澤) | [en](https://en.wikipedia.org/wiki/Chapman_To) | 20201028
 方励之 | | m | [zh](https://zh.wikipedia.org/wiki/方励之) | [en](https://en.wikipedia.org/wiki/Fang_Lizhi) | 20200927
@@ -10,20 +12,27 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 高智晟 | | m | [zh](https://zh.wikipedia.org/wiki/高智晟) | [en](https://en.wikipedia.org/wiki/Gao_Zhisheng) | 20200914
 何韻詩 | Denise Ho | f | [zh](https://zh.wikipedia.org/wiki/何韻詩) | [en](https://en.wikipedia.org/wiki/Denise_Ho) | 20200928
 贺卫方 | | m | [zh](https://zh.wikipedia.org/wiki/贺卫方) | [en](https://en.wikipedia.org/wiki/He_Weifang) | 20200927
+胡平 | | m | [zh](https://zh.wikipedia.org/wiki/胡平_(作家)) | | 20201029
+黃國桐 | Daniel Wong | m | [zh](https://zh.wikipedia.org/wiki/黃國桐) | [en](https://en.wikipedia.org/wiki/Daniel_Wong_Kwok-tung) | 20201029
 黄琦 | | m | [zh](https://zh.wikipedia.org/wiki/黄琦) | [en](https://en.wikipedia.org/wiki/Huang_Qi) | 20201028
 黃之鋒 | Joshua Wong | m | [zh](https://zh.wikipedia.org/wiki/黃之鋒) | [en](https://en.wikipedia.org/wiki/Joshua_Wong) | 20200928
 黎智英 | Jimmy Lai | m | [zh](https://zh.wikipedia.org/wiki/黎智英) | [en](https://en.wikipedia.org/wiki/Jimmy_Lai) | 20200928
+李大同 | | m | [zh](https://zh.wikipedia.org/wiki/李大同_(主编)) | [en](https://en.wikipedia.org/wiki/Li_Datong) | 20201029
 李大伟 | | m | | | 20201028 | 民运人士，2001年被以“颠覆国家政权罪”判刑11年
 李和平 | | m | [zh](https://zh.wikipedia.org/wiki/李和平_(律师)) | [en](https://en.wikipedia.org/wiki/Li_Heping) | 20200914
+梁艳萍 | | f | [zh](https://zh.wikipedia.org/wiki/方方日記#梁艳萍事件) | | 20201029
 林榮基 | | m | [zh](https://zh.wikipedia.org/wiki/林榮基) | [en](https://en.wikipedia.org/wiki/Lam_Wing-kee) | 20200928
 林夕 | 本名梁偉文 Albert Leung | m | [zh](https://zh.wikipedia.org/wiki/林夕) | [en](https://en.wikipedia.org/wiki/Albert_Leung) | 20200928
+刘萍 | | f | [zh](https://zh.wikipedia.org/wiki/刘萍_(维权活动家)) | [en](https://en.wikipedia.org/wiki/Liu_Ping_(activist)) | 20201029
 刘晓波 | | m | [zh](https://zh.wikipedia.org/wiki/刘晓波) | [en](https://en.wikipedia.org/wiki/Liu_Xiaobo) | 20200927
 羅冠聰 | Nathan Law | m | [zh](https://zh.wikipedia.org/wiki/羅冠聰) | [en](https://en.wikipedia.org/wiki/Nathan_Law) | 20200928
 马晓力 | | f | | | 20200927 | 红二代，其父[马文瑞](https://zh.wikipedia.org/wiki/马文瑞)曾任陕西省委书记、全国政协副主席
+倪玉兰 | | f | [zh](https://zh.wikipedia.org/wiki/倪玉兰) | [en](https://en.wikipedia.org/wiki/Ni_Yulan) | 20201029
 浦志强 | | m | [zh](https://zh.wikipedia.org/wiki/浦志强) | [en](https://en.wikipedia.org/wiki/Pu_Zhiqiang) | 20200914
 任志强 | | m | [zh](https://zh.wikipedia.org/wiki/任志强) | [en](https://en.wikipedia.org/wiki/Ren_Zhiqiang) | 20200927
 司徒華 | | m | [zh](https://zh.wikipedia.org/wiki/司徒華) | [en](https://en.wikipedia.org/wiki/Szeto_Wah) | 20200928
 滕彪 | | m | [zh](https://zh.wikipedia.org/wiki/滕彪) | [en](https://en.wikipedia.org/wiki/Teng_Biao) | 20200914
+铁流 | | m | [zh](https://zh.wikipedia.org/wiki/铁流) | [en](https://en.wikipedia.org/wiki/Tie_Liu) | 20201029
 王功权 | | m | [zh](https://zh.wikipedia.org/wiki/王功权) | [en](https://en.wikipedia.org/wiki/Wang_Gongquan) | 20200927
 王全璋 | | m | [zh](https://zh.wikipedia.org/wiki/王全璋) | [en](https://en.wikipedia.org/wiki/Wang_Quanzhang) | 20200914
 王若望 | 本名王寿华 | m | [zh](https://zh.wikipedia.org/wiki/王若望) | [en](https://en.wikipedia.org/wiki/Wang_Ruowang) | 20200927
