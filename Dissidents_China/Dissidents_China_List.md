@@ -10,6 +10,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 封从德 | | m | [zh](https://zh.wikipedia.org/wiki/封从德) | [en](https://en.wikipedia.org/wiki/Feng_Congde) | 20200927
 高瑜 | | f | [zh](https://zh.wikipedia.org/wiki/高瑜) | [en](https://en.wikipedia.org/wiki/Gao_Yu_(journalist)) | 20200927
 高智晟 | | m | [zh](https://zh.wikipedia.org/wiki/高智晟) | [en](https://en.wikipedia.org/wiki/Gao_Zhisheng) | 20200914
+何德普 | | m | [zh](https://zh.wikipedia.org/wiki/何德普) | [en](https://en.wikipedia.org/wiki/He_Depu) | 20201102
 何韻詩 | Denise Ho | f | [zh](https://zh.wikipedia.org/wiki/何韻詩) | [en](https://en.wikipedia.org/wiki/Denise_Ho) | 20200928
 贺卫方 | | m | [zh](https://zh.wikipedia.org/wiki/贺卫方) | [en](https://en.wikipedia.org/wiki/He_Weifang) | 20200927
 胡平 | | m | [zh](https://zh.wikipedia.org/wiki/胡平_(作家)) | | 20201029
@@ -31,8 +32,10 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 浦志强 | | m | [zh](https://zh.wikipedia.org/wiki/浦志强) | [en](https://en.wikipedia.org/wiki/Pu_Zhiqiang) | 20200914
 任志强 | | m | [zh](https://zh.wikipedia.org/wiki/任志强) | [en](https://en.wikipedia.org/wiki/Ren_Zhiqiang) | 20200927
 司徒華 | | m | [zh](https://zh.wikipedia.org/wiki/司徒華) | [en](https://en.wikipedia.org/wiki/Szeto_Wah) | 20200928
+唐荆陵 | | m | [zh](https://zh.wikipedia.org/wiki/唐荆陵) | | 20201102
 滕彪 | | m | [zh](https://zh.wikipedia.org/wiki/滕彪) | [en](https://en.wikipedia.org/wiki/Teng_Biao) | 20200914
 铁流 | | m | [zh](https://zh.wikipedia.org/wiki/铁流) | [en](https://en.wikipedia.org/wiki/Tie_Liu) | 20201029
+伊力哈木·土赫提 | | m | [zh](https://zh.wikipedia.org/wiki/伊力哈木·土赫提) | [en](https://en.wikipedia.org/wiki/Ilham_Tohti) | 20201102
 王功权 | | m | [zh](https://zh.wikipedia.org/wiki/王功权) | [en](https://en.wikipedia.org/wiki/Wang_Gongquan) | 20200927
 王全璋 | | m | [zh](https://zh.wikipedia.org/wiki/王全璋) | [en](https://en.wikipedia.org/wiki/Wang_Quanzhang) | 20200914
 王若望 | 本名王寿华 | m | [zh](https://zh.wikipedia.org/wiki/王若望) | [en](https://en.wikipedia.org/wiki/Wang_Ruowang) | 20200927
@@ -41,6 +44,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 王瑛 | 王英 | f | | | 20201028 | 企业家（高管），已退休
 王宇 | | f | [zh](https://zh.wikipedia.org/wiki/王宇_(律師)) | [en](https://en.wikipedia.org/wiki/Wang_Yu_(lawyer)) | 20200914
 魏京生 | | m | [zh](https://zh.wikipedia.org/wiki/魏京生) | [en](https://en.wikipedia.org/wiki/Wei_Jingsheng) | 20200927
+谢燕益 | | m | [zh](https://zh.wikipedia.org/wiki/谢燕益) | | 20201102
 许章润 | | m | [zh](https://zh.wikipedia.org/wiki/许章润) | [en](https://en.wikipedia.org/wiki/Xu_Zhangrun) | 20200927
 许志永 | | m | [zh](https://zh.wikipedia.org/wiki/许志永) | [en](https://en.wikipedia.org/wiki/Xu_Zhiyong) | 20200914
 杨斌 | | f | | | 20201028 | 曾任检察官，后为维权律师，但现被注销律师证
