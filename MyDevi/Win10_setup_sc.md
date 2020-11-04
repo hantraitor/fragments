@@ -7,3 +7,6 @@
 {CP} Region: (with admW...) copy the international settings to system and new user accounts _#issue (true on 1709): "Switch account" always sets Chinese input as default on welcome screen_  
 {CP} Region: change system locale to English (US)  
 {CP} Power Options - Choose what closing the lid does: select "Do nothing" if plugged in when closing the lid  
+{Settings} Wi-Fi: enable "Use random hardware addresses"  
+{LANDesk Agent}: disable LANDesk Software Monitoring by changing service startup type to Disabled and rebooting the computer  
+(for unmanaged SEP){SEP}: add wanted exceptions, then import Sylink.xml from OSD bootstick  
