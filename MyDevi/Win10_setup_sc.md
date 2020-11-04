@@ -21,6 +21,6 @@
 
 [WSL]  
 {CP} Windows Features: enable "Windows Subsystem for Linux"  
-\<Microsoft Store\>: set HKLM\SOFTWARE\Policies\Microsoft\WindowsStore /v RequirePrivateStoreOnly /t REG_DWORD /d 0 in Registry to get back public store temporarily (no need to reboot)  
-\<Kali Linux\>: to escape AV scan which prevents some Kali tools, redirect installation to excepted folder mklink /j AppData\Local\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg AS_Prod\AppData.Local.Packages.KaliLinux  
-\<Kali Linux\>Microsoft Store: install Kali Linux from public store  
+{Microsoft Store}: set "HKLM\SOFTWARE\Policies\Microsoft\WindowsStore /v RequirePrivateStoreOnly /t REG_DWORD /d 0" to get back public store temporarily _#immediately effective_  
+{Kali Linux}: to escape AV scan which prevents some Kali tools, redirect Kali installation to an excepted folder by "mklink /j %LOCALAPPDATA%\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg %USERPROFILE%\AS_Prod\AppData.Local.Packages.KaliLinux"  
+{Kali Linux} Microsoft Store: install Kali Linux from public store  
