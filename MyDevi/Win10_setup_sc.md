@@ -4,7 +4,7 @@
 [System]  
 {Settings} Region: log in with local admW..., and change "Region" to US and "Regional format" to English (US)  
 {Settings} Language: (with admW...) move English (US) to top of "Preferred languages"  
-{CP} Region: (with admW...) copy the international settings to system and new user accounts _#issue (true on 1709): "Switch account" always sets Chinese input as default on welcome screen_  
+{CP} Region: (with admW...) copy the international settings to system and new user accounts _**#issue (true on v1709): "Switch account" always sets Chinese input as default on welcome screen**_  
 {CP} Region: change system locale to English (US)  
 {CP} Power Options - Choose what closing the lid does: select "Do nothing" if plugged in when closing the lid  
 {Settings} Wi-Fi: enable "Use random hardware addresses"  
@@ -18,3 +18,9 @@
 {CP} File Explorer Options - View: enable "Show hidden files..."; disable "Hide empty drives"  
 {NTFS for profile folder}: for security purpose, replace Administrators with "Local account and member of Administrators group" having Full control, and add user own adm... having Full control  
 {SEP}: check subkeys of HKLM\SOFTWARE\Wow6432Node\Symantec\Symantec Endpoint Protection\AV\Exclusions\ScanningEngines\Directory\Admin to find excepted path suitable for use, under user profile for the best e.g. %[USER_PROFILE]%\AS_Prod\, and create that folder (%USERPROFILE%\AS_Prod\) being hidden  
+
+[WSL]  
+{CP} Windows Features: enable "Windows Subsystem for Linux"  
+\<Microsoft Store\>: set HKLM\SOFTWARE\Policies\Microsoft\WindowsStore /v RequirePrivateStoreOnly /t REG_DWORD /d 0 in Registry to get back public store temporarily (no need to reboot)  
+\<Kali Linux\>: to escape AV scan which prevents some Kali tools, redirect installation to excepted folder mklink /j AppData\Local\Packages\KaliLinux.54290C8133FEE_ey8k8hqnwqnmg AS_Prod\AppData.Local.Packages.KaliLinux  
+\<Kali Linux\>Microsoft Store: install Kali Linux from public store  
