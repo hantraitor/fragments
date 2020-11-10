@@ -34,7 +34,7 @@ Name | Other Names | Sex | zh.wiki | en.wiki | Last Update | Remark
 司徒華 | | m | [zh](https://zh.wikipedia.org/wiki/司徒華) | [en](https://en.wikipedia.org/wiki/Szeto_Wah) | 20200928
 唐荆陵 | | m | [zh](https://zh.wikipedia.org/wiki/唐荆陵) | | 20201102
 滕彪 | | m | [zh](https://zh.wikipedia.org/wiki/滕彪) | [en](https://en.wikipedia.org/wiki/Teng_Biao) | 20200914
-铁流 | | m | [zh](https://zh.wikipedia.org/wiki/铁流) | [en](https://en.wikipedia.org/wiki/Tie_Liu) | 20201029
+铁流 | 本名黄泽荣 | m | [zh](https://zh.wikipedia.org/wiki/铁流) | [en](https://en.wikipedia.org/wiki/Tie_Liu) | 20201029
 伊力哈木·土赫提 | | m | [zh](https://zh.wikipedia.org/wiki/伊力哈木·土赫提) | [en](https://en.wikipedia.org/wiki/Ilham_Tohti) | 20201102
 王功权 | | m | [zh](https://zh.wikipedia.org/wiki/王功权) | [en](https://en.wikipedia.org/wiki/Wang_Gongquan) | 20200927
 王全璋 | | m | [zh](https://zh.wikipedia.org/wiki/王全璋) | [en](https://en.wikipedia.org/wiki/Wang_Quanzhang) | 20200914
