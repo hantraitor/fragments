@@ -1,4 +1,4 @@
-[Upgrade on first use]  
+[Upgrade at first use]  
 sudo apt-get update  
 sudo apt-get dist-upgrade  
 
