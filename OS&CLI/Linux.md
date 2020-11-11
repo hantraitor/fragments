@@ -7,6 +7,9 @@ One method to execute a binary file, whose permission requirements are:
 Directly executing the file, only requires execute  
 
 [File System Permission - Directory]  
-Read alone: can only see the name and type of its childs, by listing the directory  
+Read alone: can only see the name and type of its childs (the level directly under the directory), by listing the directory  
 Write alone: can do nothing  
-Execute alone: can cd to the directory; can deal with its childs (according to permissions on childs) if childs are exactly named  
+Execute alone: can cd to the directory; can deal with its childs (according to permissions on childs) if each child is cited with exact name  
+Read+write: = read alone  
+Read+execute: = read alone + execute alone  
+Write+execute: = execute alone + create/move/delete childs  
