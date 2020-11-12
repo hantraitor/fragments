@@ -13,3 +13,8 @@ Execute alone: can cd to the directory; can deal with its childs (according to p
 Read+write: = read alone  
 Read+execute: = read alone + execute alone  
 Write+execute: = execute alone + create/move/delete childs  
+
+[File System Permission - SUID/SGID/Sticky Bits]  
+SUID: effective only on binary executables (not on scripts)  
+SGID: effective only on binary executables (not on scripts), or on directories  
+Sticky: effective only on directories (other Unix and like systems may be different)  
