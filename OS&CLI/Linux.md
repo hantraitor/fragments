@@ -18,3 +18,15 @@ Write+execute: = execute alone + create/move/delete childs
 SUID: effective only on binary executables (not on scripts)  
 SGID: effective only on binary executables (not on scripts), or on directories  
 Sticky: effective only on directories (other Unix and like systems may be different)  
+
+### [Shell - combining multiple commands]
+* Commands separated by ; are executed in sequence, regardless of errors
+* Commands following && || are executed based on last exit status
+* Commands enclosed by () are executed as a group in a child shell, comparable to directly executing a script
+* Commands enclosed by {} are executed as a group in the current shell, comparable to "source script"  
+  _#NOTICE that a space or line feed must follow { before enclosed commands_  
+  _#NOTICE that ; must be appended to the last enclosed command too_  
+  _#e.g. { ls;}_
+* Other methods may be used for specific situations:
+  * Command substitution $() ``
+  * Pipe |
