@@ -2,8 +2,8 @@
 sudo apt-get update  
 sudo apt-get dist-upgrade  
 
-[Git]  
-sudo apt-get install git  
+[Kali Metapackages]  
+sudo apt-get install kali-linux-core  
 
 [Python]  
 sudo apt-get install python3  
