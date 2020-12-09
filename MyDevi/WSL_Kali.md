@@ -11,8 +11,9 @@ sudo apt-get install kali-desktop-core
 sudo apt-get install kali-desktop-xfce  
 
 sudo apt-get install xfce4  
+
 sudo apt-get install dbus-x11 xrdp  
-sudo vi /etc/xrdp/xrdp.ini #port=3389 --> port=tcp://.:13389  
+sudo sed -i -e 's|^port=3389$|port=tcp://.:13389|g' /etc/xrdp/xrdp.ini  
 sudo /etc/init.d/xrdp start  
 
 [Python]  
