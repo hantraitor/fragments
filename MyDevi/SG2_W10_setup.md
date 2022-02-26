@@ -5,3 +5,4 @@
 [User]  
 {Settings} Date & time: show additional calendar "Traditional Chinese (Lunar)"  
 {CP} File Explorer Options - View: enable "Show hidden files..."; disable "Hide empty drives"  
+{Taskbar} News and interests: choose "Turn off"  
